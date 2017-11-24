@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 2c7714fb7b6c10a44823d8b5685ac297
+timeCreated: 1494239760
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Game Menu_G_0004s_0001_Layer 3_0
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: 47
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Game Menu_G_0004s_0001_Layer 3_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2572
+        width: 1950
+        height: 428
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline:
+    - - {x: -463.69272, y: 1073.7305}
+      - {x: -447.57703, y: 1081.0547}
+      - {x: -435.8565, y: 1094.2383}
+      - {x: -435.8565, y: 1095.7031}
+      - {x: -431.46133, y: 1098.6328}
+      - {x: -428.5312, y: 1105.957}
+      - {x: -428.5312, y: 1108.8867}
+      - {x: -425.60107, y: 1114.7461}
+      - {x: -424.13602, y: 1127.9297}
+      - {x: -422.67093, y: 1129.3945}
+      - {x: -422.67093, y: 1245.1172}
+      - {x: -421.20587, y: 1246.582}
+      - {x: -421.20587, y: 1249.5117}
+      - {x: -419.7408, y: 1250.9766}
+      - {x: -419.7408, y: 1253.9062}
+      - {x: -416.81067, y: 1258.3008}
+      - {x: -409.48535, y: 1268.5547}
+      - {x: -408.0203, y: 1268.5547}
+      - {x: -402.16003, y: 1272.9492}
+      - {x: -397.76486, y: 1274.4141}
+      - {x: -396.29977, y: 1275.8789}
+      - {x: -393.36966, y: 1275.8789}
+      - {x: -387.5094, y: 1278.8086}
+      - {x: 929.58307, y: 1278.8086}
+      - {x: 931.0481, y: 1280.2734}
+      - {x: 938.3734, y: 1280.2734}
+      - {x: 939.8385, y: 1281.7383}
+      - {x: 947.1638, y: 1281.7383}
+      - {x: 948.6289, y: 1283.2031}
+      - {x: 957.41925, y: 1284.668}
+      - {x: 970.60486, y: 1290.5273}
+      - {x: 975, y: 1294.9219}
+      - {x: 975, y: 1500}
+      - {x: -975, y: 1500}
+      - {x: -975, y: 1069.3359}
+      - {x: -485.6687, y: 1069.3359}
+      - {x: -484.2036, y: 1070.8008}
+      - {x: -473.94818, y: 1070.8008}
+      - {x: -468.08792, y: 1073.7305}
+  spritePackingTag: mid1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
