@@ -23,6 +23,7 @@ GameObject:
   - component: {fileID: 114813171085545472}
   - component: {fileID: 114940522891835426}
   - component: {fileID: 114129592037145200}
+  - component: {fileID: 114746329818346674}
   m_Layer: 5
   m_Name: JoinRoomButton
   m_TagString: Untagged
@@ -59,6 +60,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1d158a5ef78f3514cb93e464e75b1c1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  Table_id: 
+  EntryFee: 0
 --- !u!114 &114711404932333960
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -92,6 +95,25 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: 50
+--- !u!114 &114746329818346674
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1276051367776932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1679637790, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_IgnoreLayout: 0
+  m_MinWidth: -1
+  m_MinHeight: -1
+  m_PreferredWidth: -1
+  m_PreferredHeight: -1
+  m_FlexibleWidth: -1
+  m_FlexibleHeight: -1
+  m_LayoutPriority: 1
 --- !u!114 &114803453361012912
 MonoBehaviour:
   m_ObjectHideFlags: 1

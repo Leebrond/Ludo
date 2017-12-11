@@ -17,6 +17,7 @@ public class AssetJson
     public string role;
 }
 
+
 [Serializable]
 public class TableJson
 {
@@ -24,7 +25,9 @@ public class TableJson
     public string table_name;
     public string table_type;
     public int fee;
+    public string table_img;
 }
+
 
 [Serializable]
 public class GameJson
@@ -42,9 +45,7 @@ public class Responce
     /// </summary>
     public static Responce<T> CreateFromJSON<T>(string jsonString)
     {
-
         return JsonUtility.FromJson<Responce<T>>(jsonString);
-       
     }
 }
 

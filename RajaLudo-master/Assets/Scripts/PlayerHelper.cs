@@ -85,11 +85,7 @@ public class PlayerHelper : Photon.PunBehaviour
         }
     }
 
-    void OnPhotonSerializeView(PhotonStream stream, PhotonMessageInfo info)
-    {
-        
-    }
-
+    
 
     public void CmdCreate(int ID)
     {

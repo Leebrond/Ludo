@@ -84,7 +84,6 @@ public class GameApiManager : MonoBehaviour {
 
     IEnumerator UpdateBalance(WWW www)
     {
-        
         while (!www.isDone)
         {
             Debug.Log( www.progress * 100);

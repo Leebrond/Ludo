@@ -30,8 +30,8 @@ public class ManagerHelper : MonoBehaviour {
         MainMenu.gameObject.SetActive(true);
         MainPanel.gameObject.SetActive(false);
         WaitingForPlayer.gameObject.SetActive(true);
-
     }
+
     public void GetPlayersCount(int count)
     {
         GameManager.instance.CountPlayersInGame = count;

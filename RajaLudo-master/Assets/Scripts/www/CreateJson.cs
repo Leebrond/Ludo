@@ -1,5 +1,7 @@
 ﻿using UnityEngine;
 using System;
+
+
 [Serializable]
 public class CreateJson
 {
@@ -10,6 +12,5 @@ public class CreateJson
     {
         return JsonUtility.ToJson(this);
     }
-
-
+    
 }
